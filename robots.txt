@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vinodjangid.site/sitemap.xml
+Sitemap: https://adityanshah.netlify.app/sitemap.xml
